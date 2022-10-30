@@ -2,7 +2,6 @@
 This is a custom UI for SynapseX. Yes, you can finally relieve your ProtoSmasher past.
 
 ## Requirements
-- .NET Framework 4.8+
 - SynapseX V2
 
 ## Download
