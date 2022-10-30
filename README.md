@@ -10,7 +10,7 @@ This is a custom UI for SynapseX. Yes, you can finally relieve your ProtoSmasher
 
 ## Credits
 - Protosmasher Developers | Stole their UI to do this. Ended up finding the UI in my files.
-- DominusTrax | Converting this for SynapseX V2
+- DominusTrax | Converting the UI for SynapseX V2
 
 ## UI
 ![image](IMAGEURL)
